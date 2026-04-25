@@ -1,1 +1,115 @@
 
+[
+  {
+    "name": "عرب سيد (ArabSeed)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/ArabSeedProvider.kt",
+    "description": "أفلام ومسلسلات عربية وأجنبية"
+  },
+  {
+    "name": "سيما فور يو (Cima4u)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/Cima4uProvider.kt",
+    "description": "مشاهدة وتحميل الأفلام"
+  },
+  {
+    "name": "أفلام بلس (AflamPlus)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/AflamPlusProvider.kt",
+    "description": "موقع أفلام بلس"
+  },
+  {
+    "name": "سيما ناو (CimaNow)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaNowProvider.kt",
+    "description": "موقع سيما ناو للمشاهدة"
+  },
+  {
+    "name": "عرب ليونز (Arablionz)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/ArablionzProvider.kt",
+    "description": "أفلام ومسلسلات عربية"
+  },
+  {
+    "name": "فاصل إعلاني (FaselHD)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/FaselHDProvider.kt",
+    "description": "موقع فاصل إعلاني"
+  },
+  {
+    "name": "موفيز لاند (Movizland)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/MovizlandProvider.kt",
+    "description": "موقع موفيز لاند"
+  },
+  {
+    "name": "سيما كلوب (CimaClub)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaClubProvider.kt",
+    "description": "موقع سيما كلوب"
+  },
+  {
+    "name": "ماي سيما (MyCima)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/MyCimaProvider.kt",
+    "description": "موقع ماي سيما"
+  },
+  {
+    "name": "إيجي بست (EgyBest)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/EgyBestProvider.kt",
+    "description": "موقع إيجي بست"
+  },
+  {
+    "name": "أكوام (Akwam)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/AkwamProvider.kt",
+    "description": "موقع أكوام"
+  },
+  {
+    "name": "شاهيد فور يو (Shahid4u)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/Shahid4uProvider.kt",
+    "description": "شاهيد فور يو"
+  },
+  {
+    "name": "سيما تيوب (CimaTube)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaTubeProvider.kt",
+    "description": "سيما تيوب"
+  },
+  {
+    "name": "سيما لايت (CimaLight)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaLightProvider.kt",
+    "description": "سيما لايت"
+  },
+  {
+    "name": "سيما لاند (CimaLand)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaLandProvider.kt",
+    "description": "سيما لاند"
+  },
+  {
+    "name": "سيما جيت (CimaGate)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaGateProvider.kt",
+    "description": "سيما جيت"
+  },
+  {
+    "name": "سيما بلس (CimaPlus)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaPlusProvider.kt",
+    "description": "سيما بلس"
+  },
+  {
+    "name": "سيما شو (CimaShow)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaShowProvider.kt",
+    "description": "سيما شو"
+  },
+  {
+    "name": "سيما فليكس (CimaFlix)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaFlixProvider.kt",
+    "description": "
