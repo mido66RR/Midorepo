@@ -1,4 +1,3 @@
-
 [
   {
     "name": "عرب سيد (ArabSeed)",
@@ -112,4 +111,102 @@
     "name": "سيما فليكس (CimaFlix)",
     "type": "Provider",
     "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaFlixProvider.kt",
-    "description": "
+    "description": "سيما فليكس"
+  },
+  {
+    "name": "سيما ماكس (CimaMax)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaMaxProvider.kt",
+    "description": "سيما ماكس"
+  },
+  {
+    "name": "سيما إتش دي (CimaHD)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaHDProvider.kt",
+    "description": "سيما إتش دي"
+  },
+  {
+    "name": "أراب ليونز (ArabLionz)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/ArabLionzProvider.kt",
+    "description": "عرب ليونز"
+  },
+  {
+    "name": "شاهد (Shahid)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/ShahidProvider.kt",
+    "description": "منصة شاهد"
+  },
+  {
+    "name": "أفلام (Aflam)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/AflamProvider.kt",
+    "description": "موقع أفلام"
+  },
+  {
+    "name": "HD1",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/HD1Provider.kt",
+    "description": "HD1"
+  },
+  {
+    "name": "سيما لايت كو (CimaLightCo)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaLightCoProvider.kt",
+    "description": "سيما لايت كو"
+  },
+  {
+    "name": "أهواك تي في (AhwakTV)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/AhwakTVProvider.kt",
+    "description": "أهواك تي في"
+  },
+  {
+    "name": "كيرمالك (Kirmalk)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/KirmalkProvider.kt",
+    "description": "كيرمالك"
+  },
+  {
+    "name": "ASD Pics",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/ASDPicsProvider.kt",
+    "description": "ASD Pics"
+  },
+  {
+    "name": "دراما (Dramas7)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/Dramas7Provider.kt",
+    "description": "دراما"
+  },
+  {
+    "name": "فوستا تي في (FostaTV)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/FostaTVProvider.kt",
+    "description": "فوستا تي في"
+  },
+  {
+    "name": "كيو فيلم (QFilm)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/QFilmProvider.kt",
+    "description": "كيو فيلم"
+  },
+  {
+    "name": "سيما فور يو لات (Cima4uLat)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/Cima4uLatProvider.kt",
+    "description": "سيما فور يو لات"
+  },
+  {
+    "name": "سيما ليك (Cimaleek)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/CimaleekProvider.kt",
+    "description": "سيما ليك"
+  },
+  {
+    "name": "فاصل إعلاني كوم (FasselHDCom)",
+    "type": "Provider",
+    "url": "https://raw.githubusercontent.com/mido66RR/midorepo/main/plugins/FasselHDComProvider.kt",
+    "description": "فاصل إعلاني كوم"
+  }
+]
